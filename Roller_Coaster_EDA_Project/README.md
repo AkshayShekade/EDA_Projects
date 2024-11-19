@@ -101,9 +101,3 @@ I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analy
 Code with joy! 👩‍💻✨
 
 ---
-
-
-
-##### 📜 License
-
-##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
